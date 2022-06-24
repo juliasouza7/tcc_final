@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825194379000",
+    "project_id": "easierorder",
+    "storage_bucket": "easierorder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825194379000:android:09ac86a548676a40272d0d",
+        "android_client_info": {
+          "package_name": "br.com.juju.teste1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825194379000-hffj7idfuo1goar3tv54oon7mlkqej26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEtILHxBRxVZd5CJyThKsnWNEQTUzLv5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825194379000-hffj7idfuo1goar3tv54oon7mlkqej26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
